@@ -2,7 +2,7 @@
 
 <br />
 
-#### Software Developer, Open Source Enthusiast and i love solve real world problem by writing scalable software.
+#### Software Developer, Open Source Enthusiast and i love the idia of solving real world problem through software.
 
 - 🔭 I'm working on some side projects: [Have a look now](https://tandavala.github.io/)!
 - 🌱 I’m currently working as backend developer at [Bukaapp](https://www.bukaapp.com/) 👨‍💻
