@@ -4,7 +4,7 @@
 
 #### Software Developer, Open Source Enthusiast and i love solve real world problem by writing scalable software.
 
-- 🔭 I just working in some side projects: [Have a look now](https://tandavala.github.io/)!
+- 🔭 I'm working on some side projects: [Have a look now](https://tandavala.github.io/)!
 - 🌱 I’m currently working as backend developer at [Bukaapp](https://www.bukaapp.com/) 👨‍💻
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love play guitar
