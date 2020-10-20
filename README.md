@@ -6,7 +6,7 @@
 
 - 🔭 I'm working on some side projects: [Have a look now](https://tandavala.github.io/)!
 - 🌱 I’m currently working as backend developer at [Bukaapp](https://www.bukaapp.com/) 👨‍💻
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love play guitar
 
 <br />
