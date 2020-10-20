@@ -25,6 +25,10 @@
     <img align="left" alt="Jose Tandavala | Gmail" width="24px" src="_assets/email.svg" />
 </a>
 
+<a href="https://tandavala.github.io/">
+    <img align="left" alt="Jose Tandavala | Gmail" width="24px" src="_assets/portofolio.svg" />
+</a>
+
 <br />
 <br />
 
