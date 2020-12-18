@@ -2,7 +2,7 @@
 
 <br />
 
-#### Backend Engineer, Open Source Enthusiast and I love the idea of solving the real-world problems through software.
+#### Backend Engineer, Open Source Enthusiast and I love the idea of solving real-world problems through software.
 
 - 🔭 I'm working on some side projects: [Have a look now](https://tandavala.github.io/)!
 - 🌱 I’m currently working as backend developer at [Bukaapp](https://www.bukaapp.com/) 👨‍💻
