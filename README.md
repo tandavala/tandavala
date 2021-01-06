@@ -44,7 +44,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Conhecendo o Node JS](https://www.portaldeti.com/pt/artigos/item/351-conhecendo-o-node-js)
+- [Porque eu parei de escolher as tecnologias ou ferramentas da minha stack por default?](https://www.linkedin.com/pulse/porque-eu-parei-de-escolher-tecnologias-ou-da-minha-stack-tandavala/)
 
 - [A arte da escalabilidade parte III](https://portaldeti.com/pt/artigos/item/223-a-arte-da-escalabilidade-parte-iii)
 
