@@ -48,6 +48,8 @@
 
 - [A arte da escalabilidade parte III](https://portaldeti.com/pt/artigos/item/223-a-arte-da-escalabilidade-parte-iii)
 
+- [2021 Vou mais ao fundo, saiba como e porque, seja inspirado!](https://www.linkedin.com/pulse/2021-vou-mais-ao-fundo-saiba-como-e-porque-seja-jos%25C3%25A9-tandavala/?trackingId=XwkZrub%2FQSuU0cFUEtMfug%3D%3D)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
