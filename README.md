@@ -33,9 +33,7 @@
     <img align="left" alt="Jose Tandavala | Youtube" width="24px" src="_assets/youtube.svg" />
 </a>
 
-<a href="https://dev.to/tandavala">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jose Tandavala's DEV Profile" height="30" width="30">
-</a>
+
 
 <br />
 <br />
