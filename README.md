@@ -28,10 +28,11 @@
 <a href="https://tandavala.github.io/">
     <img align="left" alt="Jose Tandavala | Gmail" width="24px" src="_assets/portofolio.svg" />
 </a>
-
+<!--
 <a href="https://www.youtube.com/channel/UCY8OWK1kt3D0x0mjXAxUBgw">
     <img align="left" alt="Jose Tandavala | Youtube" width="24px" src="_assets/youtube.svg" />
 </a>
+-->
 
 
 
