@@ -1,4 +1,4 @@
-## Hi there, I'm tandavala - aka 👋
+## Hi there, I'm tandavala 
 
 <br />
 
