@@ -3,7 +3,7 @@
 <br />
 
 #### Backend Engineer, Open Source Enthusiast and I love the idea of solving real-world problems through software.
-
+- 🔭 Tooling I'm using now: (https://wakatime.com/@tandavala)!
 - 🔭 I'm working on some side projects: [Have a look now](https://tandavala.github.io/)!
 - 🌱 I’m currently working as Software Engineer at [ITGest](https://itgest.co.ao/) 👨‍💻
 - 🥅 2021 Goals: Contribute more to Open Source projects
