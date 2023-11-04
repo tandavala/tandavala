@@ -6,7 +6,7 @@
 - 🔭 Tooling I'm using now: [Have a look](https://wakatime.com/@tandavala)!
 - 🔭 I'm working on some side projects: [Have a look now](https://tandavala.github.io/)!
 - 🌱 I’m currently working as Software Engineer at [ITGest](https://itgest.co.ao/) 👨‍💻
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Get ready as Machine Learning Engineer
 - ⚡ Fun fact: I love play guitar
 
 <br />
