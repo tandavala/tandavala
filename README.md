@@ -2,7 +2,7 @@
 
 <br />
 
-#### Backend Engineer, Open Source Enthusiast and I love the idea of solving real-world problems through software.
+#### Software Engineer, Machine learning Enthusiast and I love the idea of solving real-world problems through software.
 - 🔭 Tooling I'm using now: [Have a look](https://wakatime.com/@tandavala)!
 - 🔭 I'm working on some side projects: [Have a look now](https://tandavala.github.io/)!
 - 🌱 I’m currently working as Software Engineer at [ITGest](https://itgest.co.ao/) 👨‍💻
