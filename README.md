@@ -43,6 +43,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Descomplicando Machine Learning - Parte I]([https://www.linkedin.com/pulse/porque-eu-parei-de-escolher-tecnologias-ou-da-minha-stack-tandavala/](https://dev.to/tandavala/descomplicando-machine-learning-parte-i-2b2f))
+
 - [Porque eu parei de escolher as tecnologias ou ferramentas da minha stack por default?](https://www.linkedin.com/pulse/porque-eu-parei-de-escolher-tecnologias-ou-da-minha-stack-tandavala/)
 
 - [A arte da escalabilidade parte III](https://portaldeti.com/pt/artigos/item/223-a-arte-da-escalabilidade-parte-iii)
